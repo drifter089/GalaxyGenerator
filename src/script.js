@@ -23,10 +23,10 @@ const scene = new THREE.Scene();
 const parameters = {};
 parameters.count = 50000;
 parameters.size = 0.02;
-parameters.radius = 6;
-parameters.branches = 5;
-parameters.spin = 0.8;
-parameters.randomness = 2;
+parameters.radius = 7.5;
+parameters.branches = 7;
+parameters.spin = 0.6;
+parameters.randomness = 1.7;
 parameters.insideColor = "#400ee3";
 parameters.outsideColor = "#de0d1b";
 /**
